@@ -8,7 +8,7 @@ export default function Home() {
   const [isHovered, setIsHovered] = useState(false);
 
   const handleClick = () => {
-    window.location.href = 'https://fb.com/empiredigits';
+    window.location.href = 'https://tinyurl.com/tech-wave-ughelli';
   };
 
   return (
