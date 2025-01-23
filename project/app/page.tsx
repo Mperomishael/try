@@ -8,7 +8,7 @@ export default function Home() {
   const [isHovered, setIsHovered] = useState(false);
 
   const handleClick = () => {
-    window.location.href = 'https://tinyurl.com/tech-wave-ughelli';
+    window.location.href = 'https://kzmnc5pa4l57fa1ell59.lite.vusercontent.net';
   };
 
   return (
